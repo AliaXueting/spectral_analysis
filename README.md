@@ -4,3 +4,7 @@
 热力图分析如下：
 ![热力图1](https://github.com/AliaXueting/spectral_analysis/assets/96671351/80c36b9b-9bb3-418a-ab21-afe1d526fe08)
 ![热力图2](https://github.com/AliaXueting/spectral_analysis/assets/96671351/708ae864-8450-4727-b892-edcbb361e461)
+
+预测图：
+![image](https://github.com/AliaXueting/spectral_analysis/assets/96671351/9636e92d-5e94-4164-a880-0c3d427d2d1f)
+
